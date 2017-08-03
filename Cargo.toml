@@ -3,10 +3,10 @@ authors = ["Blake Johnson <johnsonblake1@gmail.com."]
 name = "atsamd21g18a"
 version = "0.1.0"
 categories = ["embedded", "hardware-support", "no-std"]
-description = "Board Support Crate for the Blue Pill"
+description = "A board support package for the ATSAMD21G18A chip from Atmel for Rust Embedded projects"
 keywords = ["arm", "cortex-m", "atmel", "ATSAMD21"]
 license = "Apache-2.0"
-repository = "A board support package for the ATSAMD21G18A chip from Atmel for Rust Embedded projects"
+repository = "https://github.com/voteblake/atsamd21g18a"
 
 [dependencies]
 bare-metal = "0.1.0"
