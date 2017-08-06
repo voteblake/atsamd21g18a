@@ -1,4 +1,4 @@
-# ATSAMD21G18A [![Crates.io](https://img.shields.io/crates/v/atsamd21g18a.svg)](https://crates.io/crates/atsamd21g18a)
+# ATSAMD21G18A [![Crates.io](https://img.shields.io/crates/v/atsamd21g18a.svg)](https://crates.io/crates/atsamd21g18a) [![docs.rs](https://img.shields.io/badge/docs.rs--brightgreen.svg)](https://docs.rs/atsamd21g18a/0.1.0/atsamd21g18a/)
 A board support package for the ATSAMD21G18A chip from Atmel for Rust Embedded projects
 
 ## Status
